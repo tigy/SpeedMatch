@@ -17,7 +17,7 @@
 
 
 body{
-	background: #f0f0f0 url(../images/bg.gif) left top fixed no-repeat;
+	background: #f0f0f0 url(images/bg.gif) left top fixed no-repeat;
 	font-family: Arial, Helvetica, sans-serif;
 	color: #555;
 	font-size: 12px;
@@ -37,7 +37,7 @@ a {
 
 .button {
 	color: #fff;
-	background: url(../images/button-bg.gif) right center;
+	background: url(images/button-bg.gif) right center;
 	line-height: 30px;
 	height: 30px;
 	border: 0;
